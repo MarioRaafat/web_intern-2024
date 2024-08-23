@@ -1,0 +1,16 @@
+{
+  "name": "assi-3",
+  "version": "1.0.0",
+  "main": "monitor.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --env-file=.env monitor.js"
+  },
+  "author": "Mario Raafat",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
+}

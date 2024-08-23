@@ -1,0 +1,3 @@
+----> why in terminal when I run the file it doesn't watch till I click on the terminal
+
+----> the statements in terminal appears twice
