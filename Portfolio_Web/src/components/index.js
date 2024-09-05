@@ -6,6 +6,7 @@ import Experience from './Experience/Experience.jsx';
 import Works from './Work/Works.jsx';
 import Contact from './Contact/Contact.jsx';
 import Projects from './Projects/Projects.jsx';
+import Footer from './Footer/Footer.jsx';
 
 export {
   Intro,
@@ -16,4 +17,5 @@ export {
   Experience,
   Works,
   Contact,
+  Footer,
 }
