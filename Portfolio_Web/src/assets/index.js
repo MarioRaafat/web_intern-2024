@@ -6,8 +6,9 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
-import intro_pic from "./intro_pic2.png";
+import intro_pic from "./intro_pic.jpg";
 import contact_pic from "./contact_pic.jpg";
+import cover from "./cover.png";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -47,6 +48,7 @@ export {
   github,
   menu,
   close,
+  cover,
   css,
   docker,
   git,

@@ -27,7 +27,6 @@ import {
     mssql,
     flask,
 } from "../assets";
-import {node} from "globals";
 
 export const navLinks = [
     {

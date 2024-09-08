@@ -27,6 +27,14 @@ root {
   --scrollbar-width: 10px;
 }
 
+body{
+  background-image: url(../src/assets/cover.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
 .hash-span {
   margin-top: -100px;
   padding-bottom: 100px;
